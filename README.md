@@ -1,2 +1,2 @@
 # Demonstration-sdr
-MegaGiga ASBL demonstration of Software Defined Radio
+Demonstration of Software Defined Radio
